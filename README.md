@@ -24,16 +24,27 @@
 ## test03.py
 读取json文件疫情数据，按各国累计确诊数与本国总人口比例排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
 由图表可直观了解各国累计病例与本国总人口比例的变化趋势及与其他国家的对比情况
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test03.1.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test03.2.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test03.3.png)
 
 ## test04.py
 读取json文件疫情数据，按各国累计确诊数与本国面积比例排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
 由图表可直观了解各国累计病例与本国面积比例的变化趋势及与其他国家的对比情况
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test04.1.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test04.2.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test04.3.png)
 
 ## test05.py
 读取json文件疫情数据，按各国累计确诊数与本国人口密度比例排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
 由图表可直观了解各国累计病例与本国人口密度比例的变化趋势及与其他国家的对比情况
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test05.1.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test05.2.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test05.3.png)
 
 ## test06.py
 读取json文件疫情数据，按新增确诊数排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
 由图表可直观了解各国新增病例的变化趋势及与其他国家的对比情况
-
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test06.1.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test06.2.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test06.3.png)
