@@ -4,7 +4,9 @@
 
 # 数据说明
 各国人口数据：python代码内json数据（人）
+
 各国面积数据：python代码内json数据（平方公里）
+
 各国疫情数据：每天采集新数据，包括累计确诊数、每日新增确诊数等（人）
 
 # 程序说明
@@ -15,6 +17,9 @@
 ## test02.py
 读取json文件疫情数据，按各国累计确诊数排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
 由图表可直观了解各国累计病例的变化趋势及与其他国家的对比情况
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test02.1.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test02.2.png)
+![img](https://raw.githubusercontent.com/zhonghuihuo/COVID-19-charts-by-country/master/test02.3.png)
 
 ## test03.py
 读取json文件疫情数据，按各国累计确诊数与本国总人口比例排序生成多张图表（为图表对比更加明显，采用8个国家一张图表）
